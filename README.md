@@ -140,7 +140,7 @@ employee-system/
 
 ├── app.py              # Flask Application Logic
 
-├── employee_db.sql        # SQL Schema \& Stored Procedures
+├── employee_db.sql        # SQL Schema & Stored Procedures
 
 ├── README.md           # Project Documentation
 
