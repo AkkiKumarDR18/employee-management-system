@@ -154,6 +154,6 @@ employee-system/
 
 └── templates/
 
-│   └── index.html      # Jinja2 Main Template
+│   └── index.html      # Main Template
 
 ```
