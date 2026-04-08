@@ -126,6 +126,7 @@ python app.py
 
 Visit http://127.0.0.1:5000 in your web browser.
 
+
 ### 📸 Preview
 
 <img width="1841" height="1027" alt="Screenshot 2026-04-08 130736" src="https://github.com/user-attachments/assets/69ab6851-23db-45e2-b1c3-da8108f1dd5f" />
